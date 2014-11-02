@@ -12,7 +12,7 @@ Build MobiFile target and run `qlmanage -r` in a terminal to refresh
 License
 -------
 
-The QLMarkdown code is distributed under MIT License
+The MobiFile code is distributed under MIT License
 
 Credits:
 -------
